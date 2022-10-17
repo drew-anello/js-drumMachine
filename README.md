@@ -5,3 +5,4 @@ This is a drum machine I made using HTML CSS and vanila JS.
 This drum machine is a nod to my favorite artist prince
 
 
+https://jsdrummachine.netlify.app
