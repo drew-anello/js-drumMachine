@@ -1,9 +1,3 @@
-# This is day 1 of my 30 day vanila js challenge
+![alt text](https://i.imgur.com/ywjHqRu.png)
 
-This is a drum machine I made using HTML CSS and vanila JS. 
-
-This drum machine is a nod to my favorite artist prince
-
-
-# https://jsdrummachine.netlify.app
- 
+A tribute to the legendary artist, Prince, this drum machine is a fun and interactive application built using HTML, CSS, and vanilla JavaScript. With its intuitive design and user-friendly interface, users can easily trigger different drum sounds using the keys displayed on screen. Get ready to create some amazing beats and pay homage to one of the greatest musicians of all time!
