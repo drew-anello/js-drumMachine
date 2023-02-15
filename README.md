@@ -20,3 +20,4 @@ No additional frameworks or libraries were used to create this application, so i
 The Prince Drum Machine was created by Drew Anello. It is a non-commercial project built for educational and entertainment purposes only. All rights to the music and images used in this application belong to their respective owners.
 
 Thank you for using the Prince Drum Machine! Enjoy making your own beats and paying tribute to one of the greatest musicians of all time!
+ 
